@@ -12,6 +12,11 @@ public class CompanyDetails {
 		System.out.println("Company name is Cognizant");
 	}
 	
+	private void compAddress() {
+		System.out.println("Company Address is OMR");
+
+	}
+	
 	public static void main(String[] args) {
 		CompanyDetails c=new CompanyDetails();
 		c.compId();

@@ -7,5 +7,15 @@ public class StudentDetails {
 
 	}
 	
+	private void name() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void address() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 }

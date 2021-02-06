@@ -17,5 +17,10 @@ public class StudentDetails {
 
 	}
 	
+	private void studentPhNo() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 }
